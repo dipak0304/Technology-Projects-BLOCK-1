@@ -4,7 +4,7 @@ Describe the computer before opening it.
 
 The system was a desktop tower in good cosmetic condition: metal and plastic case, front panel with power button, USB ports, and ventilation grilles. Cables connected the monitor, keyboard, mouse, and mains power. From the outside, the main visible elements were the case, optical drive bay (unused on this unit), and rear I/O shield with video, USB, Ethernet, and audio jacks. The machine was powered off and unplugged before any work began, and the workspace was clear of static-sensitive hazards.
 
-![computer](https://github.com/dipak0304/Technology-Projects-BLOCK-1/tree/main/images/computer.webp)
+<img src="images/computer.webp" alt="Computer" width="400">
 
 ---
 ## Internal Layout
