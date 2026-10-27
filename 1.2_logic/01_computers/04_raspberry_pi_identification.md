@@ -1,10 +1,9 @@
 # Part 4 – Raspberry Pi Hardware Identification
-Upload:
-```
-images/raspberry-pi/pi-board.jpg
-images/raspberry-pi/labelled-pi-board.jpg
-```
-*(Add labelled photos at these paths on your fork.)*
+
+![pi ](../../images/pi.png)
+![pi-board](../../images/pi-board.png)
+
+
 
 ---
 
