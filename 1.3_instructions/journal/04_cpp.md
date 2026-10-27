@@ -8,7 +8,11 @@ Expected:
 Result: 8
 ```
 
-Screenshot: `screeshots/cpp-main.png`.
+Screenshot evidence:
+
+![C++ program run](../../images/code/cpp.png)
+
+(Source: `1.3_instructions/cpp/main.cpp` — output **Result: 8**.)
 
 ## C vs C++ binary (at a glance)
 

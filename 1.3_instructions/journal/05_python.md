@@ -6,7 +6,11 @@
 Result: 8
 ```
 
-Screenshot: `screeshots/python-script.png`.
+Screenshot evidence:
+
+![Python script run](../../images/code/python.png)
+
+(Source: `1.3_instructions/python/script.py` — output **Result: 8**.)
 
 ## Interpretation vs compilation
 
