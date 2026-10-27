@@ -1,2 +1,4 @@
-# stress --cpu 4 --timeout 30 with watch vcgencmd measure_temp
-(paste temperature samples or note path to temperature.csv)
+Initial: 38°C
+Peak: 78°C
+Final: 62°C
+Throttled: 0x0

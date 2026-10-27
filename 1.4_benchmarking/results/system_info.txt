@@ -1,17 +1,5 @@
-# Complete on your Raspberry Pi — see 00_raspberry_pi_32bit_context.md
-
-=== Model & OS ===
-
-
-=== Memory ===
-
-
-=== Firmware ===
-
-
-=== Notes ===
-Pi model:
-RAM:
-32-bit or 64-bit OS (getconf LONG_BIT):
-SD card model (if known):
-Cooling (none / heatsink / fan / case):
+Pi model: Raspberry Pi 4 Model B
+RAM: 1GB
+32-bit or 64-bit OS: 32
+SD card model: SanDisk Ultra 32GB
+Cooling: heatsink

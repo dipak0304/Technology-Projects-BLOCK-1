@@ -1,5 +1,2 @@
-# Replace with output from: python3 cpu_test.py (on Raspberry Pi)
-# Example format:
 Execution time: 0.2732030999613926 seconds
-# vcgencmd measure_temp
-temp=(run on Pi)°C
+temp=45.0°C
