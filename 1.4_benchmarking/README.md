@@ -2,6 +2,8 @@
 
 Welcome to this hands‑on lab! Today you’ll explore how to measure CPU speed, memory usage, storage I/O, network performance, and temperature on your Raspberry Pi.
 
+**Start here:** read **`00_raspberry_pi_32bit_context.md`** for Pi 4 / Pi 5 specs, **32-bit vs 64-bit Raspberry Pi OS**, thermal throttling, and the `results/system_info.txt` checklist (based on [Raspberry Pi official documentation](https://www.raspberrypi.com/documentation/)).
+
 ## 🧠 What You'll Learn
 - How fast the Raspberry Pi can compute operations
 - How memory is allocated and measured
@@ -10,17 +12,23 @@ Welcome to this hands‑on lab! Today you’ll explore how to measure CPU speed,
 - How temperature affects performance
 
 ## 🛠️ Requirements
-- Raspberry Pi 4 or 5
-- Python 3
-- Tools: `iperf3`, `ping`, `stress`, `vcgencmd`, `htop`, `dd`
+- Raspberry Pi 4 or 5 (32-bit or 64-bit **Raspberry Pi OS** — note which in your report)
+- Python 3 (`armhf` packages on 32-bit OS)
+- Tools: `iperf3`, `ping`, `stress` or `stress-ng`, `vcgencmd`, `htop`, `dd`, optional `python3-numpy`
+
+| Typical classroom setup | Relevance to benchmarks |
+|-------------------------|-------------------------|
+| Pi 4, 1–8 GB RAM, 32-bit OS | Cortex-A72 @ up to 1.8 GHz; microSD boot; ~3 GB max per process on 8 GB boards |
+| Pi 5, 4–16 GB RAM | Cortex-A76 @ 2.4 GHz; faster USB/SD via RP1; use 5 V / 5 A PSU for stable CPU tests |
 
 ## 📁 What to Submit
 Upload to your GitHub Classroom repository:
-- A `results/` folder containing the outputs of each task
+- A `results/` folder containing the outputs of each task **`results/system_info.txt`** first
 - A `REPORT.md` (1-2 pages) summarising what you observed
 
 ## ▶️ Start the Lab
 Open the task files below:
+- **00_raspberry_pi_32bit_context.md** — hardware and OS reference
 - **01_cpu.md**
 - **02_memory.md**
 - **03_io.md**

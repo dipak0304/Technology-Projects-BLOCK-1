@@ -1,0 +1,17 @@
+# Complete on your Raspberry Pi — see 00_raspberry_pi_32bit_context.md
+
+=== Model & OS ===
+
+
+=== Memory ===
+
+
+=== Firmware ===
+
+
+=== Notes ===
+Pi model:
+RAM:
+32-bit or 64-bit OS (getconf LONG_BIT):
+SD card model (if known):
+Cooling (none / heatsink / fan / case):

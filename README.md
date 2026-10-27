@@ -49,9 +49,10 @@ Written answers for Week 2 activities are filled in the corresponding `.md` file
 
 | Path | Purpose |
 |------|---------|
-| `01_cpu.md` … `05_thermal.md` | Lab tasks |
+| `00_raspberry_pi_32bit_context.md` | Pi 4/5 specs, 32-bit OS limits, throttling, official links |
+| `01_cpu.md` … `05_thermal.md` | Lab tasks (each includes hardware background) |
 | `cpu_test.py`, `memory_test.py` | Helper scripts |
-| `results/` | Command output (`cpu.txt`, `memory.txt`, `io.txt`, etc.) |
+| `results/` | `system_info.txt` plus task outputs (`cpu.txt`, `memory.txt`, …) |
 | `REPORT.md` | Summary report (update with your Pi measurements) |
 
 ### Shared evidence — `images/`

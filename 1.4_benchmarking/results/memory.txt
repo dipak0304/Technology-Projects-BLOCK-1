@@ -1,4 +1,5 @@
 # Replace with: python3 memory_test.py && free -h (on Pi)
-Memory allocation time: (run on Pi)
+Memory allocation time: 0.6345684999832883 seconds
+Array nbytes: 80000000
 # free -h output:
 (paste free -h here)
