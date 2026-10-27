@@ -1,0 +1,13 @@
+# Programming journal (overview)
+
+| Checkpoint | Commit tag | Journal file |
+|------------|--------------|--------------|
+| Environment | `setup` | screenshots in `screeshots/` |
+| Assembly add | `asm-add` | `journal/01_asm_add.md` |
+| Assembly hello | `asm-hello` | `journal/02_asm_hello.md` |
+| C | `c-basic` | `journal/03_c.md` |
+| C++ | `cpp-basic` | `journal/04_cpp.md` |
+| Python | `py-basic` | `journal/05_python.md` |
+| Scratch | `scratch-basic` | `journal/06_scratch.md` |
+
+All journal prompts are answered in the linked files; add Pi screenshots and disassembly dumps when you build on hardware.

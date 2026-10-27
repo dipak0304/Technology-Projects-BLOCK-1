@@ -24,3 +24,8 @@ Learn to create and edit text files from the CLI.
 
 **Commit and push the changes**
 
+Expected `cat notes.txt` output:
+```text
+This is my first Raspberry Pi CLI note!
+```
+

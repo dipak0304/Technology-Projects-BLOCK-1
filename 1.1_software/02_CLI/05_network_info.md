@@ -20,4 +20,8 @@ Explore network tools and check connectivity.
 
 **Upload screenshots for every step**
 
+Example:
+- `hostname -I` → LAN IP address(es)
+- `ping google.com` → time=… ms per reply until Ctrl+C
+- `ifconfig` or `ip addr` → interface `wlan0`/`eth0` details
 

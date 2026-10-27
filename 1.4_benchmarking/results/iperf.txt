@@ -1,0 +1,2 @@
+# iperf3 -c <server-ip> (on Pi)
+(paste iperf3 summary here)

@@ -1,0 +1,4 @@
+# Replace with: python3 memory_test.py && free -h (on Pi)
+Memory allocation time: (run on Pi)
+# free -h output:
+(paste free -h here)

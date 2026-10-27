@@ -32,4 +32,7 @@ Practise working with files and folders.
    ```bash
    rm file2.txt
    ```
+7. Verify with `ls -l` — expect `notes.txt` and `notes_backup.txt` only.
+
+**Status:** Commands documented; run on Pi in your CLI/practice folder, commit, and push.
 

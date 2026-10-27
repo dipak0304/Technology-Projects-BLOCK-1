@@ -1,0 +1,2 @@
+# stress --cpu 4 --timeout 30 with watch vcgencmd measure_temp
+(paste temperature samples or note path to temperature.csv)

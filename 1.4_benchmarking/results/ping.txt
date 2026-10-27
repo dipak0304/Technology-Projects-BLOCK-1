@@ -1,0 +1,2 @@
+# ping <server-ip> -c 30 (on Pi)
+(paste ping statistics: min/avg/max, packet loss)

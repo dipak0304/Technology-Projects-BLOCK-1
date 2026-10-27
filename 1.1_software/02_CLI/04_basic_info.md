@@ -20,4 +20,8 @@ Use CLI commands to inspect your system.
 
 **Upload screenshots for every step**
 
+Example commands to capture (your values will differ):
+- `whoami` → your login name
+- `df -h` → root filesystem size and `%` used
+- `free -h` → total/used/available RAM
 

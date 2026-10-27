@@ -36,3 +36,14 @@ Learn how to check where you are and explore folders.
 `images/CLI_step5.jpg`
 
 `images/CLI_step6.jpg`
+
+---
+
+### ✅ Completion notes (run on Raspberry Pi and add screenshots)
+
+| Step | Command | Record output in screenshot |
+|------|---------|----------------------------|
+| 2 | `pwd` | Home path, e.g. `/home/pi` |
+| 3 | `ls` | File listing in current directory |
+| 4–5 | `cd` … `ls -a` | Inside CLI folder, show hidden files |
+| 6 | `cd ~` | Confirm return to home with `pwd` |

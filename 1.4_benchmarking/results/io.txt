@@ -1,0 +1,3 @@
+# Replace with dd write/read tests from 03_io.md (on Pi)
+Write speed: (from dd output)
+Read speed: (from dd output)
